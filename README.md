@@ -1,4 +1,4 @@
-# vue-test-inrating
+# vue-test-contacts
 
 ## Project setup
 ```
